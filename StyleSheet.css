@@ -1,0 +1,104 @@
+﻿*
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    background-color:black;
+    font:20px Anton;
+}
+.cont
+{
+    width:430px;
+    margin:auto; 
+}
+.formLogin
+{
+    background-color:rgb(217, 217, 217);
+    padding:10px 8px;
+    margin-top:100px;
+    border-radius:14px 14px 0 0;
+    height:250px;
+}
+.formLogin h2
+{
+    color:rgb(255, 77, 77);
+    text-align:center;
+    padding:10px;
+}
+.formInp
+{
+    text-align:center;
+}
+input[type=text]
+{
+    border:0;
+    background-color:rgb(166, 166, 166);
+    font-family:Anton;
+    padding:14px 25px;
+    width:300px;
+    border-radius:20px;
+}
+.loginDiv
+{
+    float:right;
+    padding:10px;
+    color:rgb(255, 77, 77);
+    padding:10px;
+}
+#fr
+{
+    float:left;
+    padding:10px;
+}
+#btn
+{
+    float:right;
+    padding:10px;
+    margin-right:11px
+}
+.clear
+{
+    clear:both;
+}
+#btn button
+{
+    border:0;
+    background:rgb(255, 77, 77);
+    color:white;
+    padding:8px 20px;
+    border-radius:20px;
+    font:15px Anton; 
+}
+#fr a
+{
+    color:rgb(255, 77, 77);
+    font:15px Anton;
+    text-decoration:none;
+}
+.register
+{
+    background:rgb(255, 77, 77);
+    padding:20px;
+    border-radius:0 0 14px 14px;
+    color:white;
+    box-shadow:0 1px 1px #686868 inset;
+    padding-right:40px;
+}
+.register span
+{
+    float:right;
+}
+.register span h3
+{
+    padding:5px;
+    margin-top:-10px;
+    color:rgb(255, 77, 77);
+    text-decoration:none;
+}
+.register span h3 a
+{
+    color:white;
+    text-decoration:none;
+}
